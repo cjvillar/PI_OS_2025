@@ -1,7 +1,7 @@
 # RSPRY OS 25
-Learning how to make a simple OS for the Raspberry Pi Zero.
+Learning how to make a simple OS for the Raspberry **Pi Zero**.
 
-## 1. [First we learn cross-compiling: compile an os from an existing os](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones)
+### 1. [First we learn cross-compiling: compile an os from an existing os](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones)
 
 
 
