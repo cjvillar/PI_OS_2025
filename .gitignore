@@ -1,0 +1,4 @@
+# ignore make ouput files
+*.o
+*.bin
+*.elf
